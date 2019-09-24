@@ -1,6 +1,6 @@
-#Drupal Basic Set-up
+<h2><u><b>Drupal Basic Set-up</b></u><h2>
 
-##New project set-up
+<h3>New project set-up</h3>
 <ul>
 <li>clone project from git repository</li></ul>
  <code>git clone https://github.com/indrajith-kb/drupal_basic_setup.git</code>

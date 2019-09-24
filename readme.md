@@ -12,7 +12,7 @@
  <code>drush sql-dump > /tmp/dbname.sql</code>
  
  <ul><li>import db to ur local</li></ul>
- <code>mysql -uusername -ppasswoed dbname < dbname.sql </code>
+ <code>mysql -uusername -ppassword dbname < dbname.sql </code>
  
  <u>some short-cut for db updates</u>
  <ul><li><code>drush sql-sync @dev @local </code></li></ul>
